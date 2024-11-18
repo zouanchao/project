@@ -1,0 +1,164 @@
+{
+  "header": {
+    "home": "首页",
+    "editor": "编辑器",
+    "library": "文库",
+    "pricing": "定价",
+    "signIn": "登录",
+    "brand": "AI 研究助手"
+  },
+  "hero": {
+    "title": "写出更好的研究论文",
+    "subtitle": "借助 AI 助手将您的研究转化为专业论文",
+    "placeholder": "描述您的研究主题或粘贴摘要...",
+    "startWriting": "开始写作"
+  },
+  "documentTypes": {
+    "title": "选择文档类型",
+    "researchPaper": {
+      "title": "研究论文",
+      "description": "包含方法论和研究发现的原创研究"
+    },
+    "literatureReview": {
+      "title": "文献综述",
+      "description": "对现有研究的全面分析"
+    },
+    "caseStudy": {
+      "title": "案例研究",
+      "description": "特定实例的深入分析"
+    },
+    "systematicReview": {
+      "title": "系统综述",
+      "description": "多项研究的结构化综述"
+    },
+    "grantProposal": {
+      "title": "基金申请",
+      "description": "研究基金申请文件"
+    },
+    "technicalReport": {
+      "title": "技术报告",
+      "description": "详细的技术文档"
+    }
+  },
+  "features": {
+    "title": "强大的科研写作功能",
+    "subtitle": "为您提供写作、协作和发表研究论文所需的一切工具",
+    "aiAssistant": {
+      "title": "AI 写作助手",
+      "description": "在写作过程中获得实时建议和改进，使用经过科研论文训练的高级语言模型"
+    },
+    "search": {
+      "title": "智能文献搜索",
+      "description": "通过智能推荐在多个数据库中查找和分析相关论文"
+    },
+    "references": {
+      "title": "参考文献管理",
+      "description": "自动格式化引用并管理任何引用样式的参考文献"
+    },
+    "dataAnalysis": {
+      "title": "数据分析与可视化",
+      "description": "使用集成工具创建专业图表并分析研究数据"
+    },
+    "collaboration": {
+      "title": "协作工具",
+      "description": "与合著者无缝协作，共享草稿并实时管理反馈"
+    },
+    "export": {
+      "title": "导出与发表",
+      "description": "使用期刊特定模板导出 LaTeX、Word 和 PDF 等多种格式"
+    }
+  },
+  "workflows": {
+    "title": "简化研究工作流程",
+    "subtitle": "遵循我们的引导流程，高效完成研究文档",
+    "researchPaper": {
+      "title": "研究论文",
+      "steps": {
+        "1": "上传论文",
+        "2": "AI 分析",
+        "3": "生成大纲",
+        "4": "AI 辅助写作",
+        "5": "导出"
+      }
+    },
+    "literatureReview": {
+      "title": "文献综述",
+      "steps": {
+        "1": "搜索论文",
+        "2": "提取见解",
+        "3": "综合发现",
+        "4": "创建可视化",
+        "5": "格式化"
+      }
+    },
+    "grantProposal": {
+      "title": "基金申请",
+      "steps": {
+        "1": "设定目标",
+        "2": "方法规划",
+        "3": "预算规划",
+        "4": "影响分析",
+        "5": "提交"
+      }
+    }
+  },
+  "editor": {
+    "backToDocuments": "返回文档",
+    "words": "字数",
+    "share": "分享",
+    "settings": "设置",
+    "export": "导出",
+    "documentOutline": "文档大纲",
+    "addSection": "添加章节",
+    "aiAssistant": {
+      "title": "AI 助手",
+      "welcome": "你好！我是你的 AI 研究助手。我可以帮你生成研究论文的大纲。只需告诉我你的主题或粘贴摘要即可。",
+      "placeholder": "描述你的研究主题...",
+      "thinking": "思考中...",
+      "error": "抱歉，遇到了错误。请重试。",
+      "success": "我已经为你的研究论文生成了大纲。你可以在编辑器中查看。"
+    },
+    "toolbar": {
+      "bold": "粗体",
+      "italic": "斜体",
+      "underline": "下划线",
+      "link": "插入链接",
+      "image": "插入图片",
+      "table": "插入表格",
+      "chart": "插入图表",
+      "code": "插入代码块",
+      "clear": "清除格式"
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "为研究人员提供 AI 驱动的写作和分析工具"
+    },
+    "resources": {
+      "title": "资源",
+      "documentation": "文档",
+      "api": "API 参考",
+      "templates": "模板",
+      "examples": "示例"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "blog": "博客",
+      "careers": "招贤纳士",
+      "press": "新闻"
+    },
+    "newsletter": {
+      "title": "获取更新",
+      "description": "获取新功能和研究写作技巧的最新更新",
+      "placeholder": "输入邮箱",
+      "subscribe": "订阅"
+    },
+    "copyright": "© 2024 SciHelp AI. 保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "使用条款",
+      "security": "安全"
+    }
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "header": {
+    "home": "Home",
+    "editor": "Editor",
+    "library": "Library",
+    "pricing": "Pricing",
+    "signIn": "Sign In",
+    "brand": "AI Research Assistant"
+  },
+  "hero": {
+    "title": "Write Better Research Papers",
+    "subtitle": "Transform your research into professional papers with AI assistance",
+    "placeholder": "Describe your research topic or paste your abstract here...",
+    "startWriting": "Start Writing"
+  },
+  "documentTypes": {
+    "title": "Choose Your Document Type",
+    "researchPaper": {
+      "title": "Research Paper",
+      "description": "Original research with methodology and findings"
+    },
+    "literatureReview": {
+      "title": "Literature Review",
+      "description": "Comprehensive analysis of existing research"
+    },
+    "caseStudy": {
+      "title": "Case Study",
+      "description": "In-depth analysis of specific instances"
+    },
+    "systematicReview": {
+      "title": "Systematic Review",
+      "description": "Structured review of multiple studies"
+    },
+    "grantProposal": {
+      "title": "Grant Proposal",
+      "description": "Research funding application documents"
+    },
+    "technicalReport": {
+      "title": "Technical Report",
+      "description": "Detailed technical documentation"
+    }
+  },
+  "features": {
+    "title": "Powerful Features for Scientific Writing",
+    "subtitle": "Everything you need to write, collaborate, and publish your research papers",
+    "aiAssistant": {
+      "title": "AI Writing Assistant",
+      "description": "Get real-time suggestions and improvements as you write, with advanced language models trained on scientific papers"
+    },
+    "search": {
+      "title": "Smart Literature Search",
+      "description": "Find and analyze relevant papers across multiple databases with intelligent recommendations"
+    },
+    "references": {
+      "title": "Reference Management",
+      "description": "Automatically format citations and manage your bibliography in any citation style"
+    },
+    "dataAnalysis": {
+      "title": "Data Analysis & Visualization",
+      "description": "Create professional charts and analyze your research data with integrated tools"
+    },
+    "collaboration": {
+      "title": "Collaboration Tools",
+      "description": "Work seamlessly with co-authors, share drafts, and manage feedback in real-time"
+    },
+    "export": {
+      "title": "Export & Publishing",
+      "description": "Export your work in multiple formats including LaTeX, Word, and PDF with journal-specific templates"
+    }
+  },
+  "workflows": {
+    "title": "Streamlined Research Workflows",
+    "subtitle": "Follow our guided processes to complete your research documents efficiently",
+    "researchPaper": {
+      "title": "Research Paper",
+      "steps": {
+        "1": "Upload papers",
+        "2": "AI analysis",
+        "3": "Generate outline",
+        "4": "Write with AI",
+        "5": "Export"
+      }
+    },
+    "literatureReview": {
+      "title": "Literature Review",
+      "steps": {
+        "1": "Search papers",
+        "2": "Extract insights",
+        "3": "Synthesize findings",
+        "4": "Create visuals",
+        "5": "Format"
+      }
+    },
+    "grantProposal": {
+      "title": "Grant Proposal",
+      "steps": {
+        "1": "Set objectives",
+        "2": "Plan methods",
+        "3": "Budget planning",
+        "4": "Impact analysis",
+        "5": "Submit"
+      }
+    }
+  },
+  "editor": {
+    "backToDocuments": "Back to Documents",
+    "words": "words",
+    "share": "Share",
+    "settings": "Settings",
+    "export": "Export",
+    "documentOutline": "Document Outline",
+    "addSection": "Add Section",
+    "aiAssistant": {
+      "title": "AI Assistant",
+      "welcome": "Hi! I'm your AI research assistant. I can help you generate an outline for your research paper. Just tell me your topic or paste your abstract.",
+      "placeholder": "Describe your research topic...",
+      "thinking": "Thinking...",
+      "error": "Sorry, I encountered an error. Please try again.",
+      "success": "I've generated an outline for your research paper. You can see it in the editor."
+    },
+    "toolbar": {
+      "bold": "Bold",
+      "italic": "Italic",
+      "underline": "Underline",
+      "link": "Insert Link",
+      "image": "Insert Image",
+      "table": "Insert Table",
+      "chart": "Insert Chart",
+      "code": "Insert Code Block",
+      "clear": "Clear Formatting"
+    }
+  },
+  "footer": {
+    "brand": {
+      "description": "Empowering researchers with AI-powered writing and analysis tools"
+    },
+    "resources": {
+      "title": "RESOURCES",
+      "documentation": "Documentation",
+      "api": "API Reference",
+      "templates": "Templates",
+      "examples": "Examples"
+    },
+    "company": {
+      "title": "COMPANY",
+      "about": "About",
+      "blog": "Blog",
+      "careers": "Careers",
+      "press": "Press"
+    },
+    "newsletter": {
+      "title": "STAY UPDATED",
+      "description": "Get the latest updates on new features and research writing tips",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "© 2024 SciHelp AI. All rights reserved.",
+    "links": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "security": "Security"
+    }
+  }
+}
